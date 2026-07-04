@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "1ee0ad57c52217d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6bd75aef1c4dc46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9188ace5c5ac6c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_AI_Product_Lab/Mechanical_Engineer_AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mechanical_Engineer_AI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "745460de6533f937",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a9c71af8c7f10f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c65b2a390b3c2346",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "61d93c84a2e0d43c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "6ce14fb62fca793b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82498da1672930ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "7784e3098697bfcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "559d1cea62997cd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05_AI_Product_Lab/Mechanical_Engineer_AI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Mechanical_Engineer_AI"
+            }
+          },
+          {
+            "id": "04728403dd1d41c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05_AI_Product_Lab/Mechanical_Engineer_AI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Mechanical_Engineer_AI"
+            }
+          },
+          {
+            "id": "54c6479c0715350a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e16d822715fe659b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "708dbce6298ea7ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05_AI_Product_Lab/Mechanical_Engineer_AI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Mechanical_Engineer_AI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9188ace5c5ac6c86",
+  "lastOpenFiles": [
+    "05_AI_Product_Lab/Industrial_Designer_AI.md",
+    "05_AI_Product_Lab/AI-001_Chief_AI.md",
+    "05_AI_Product_Lab/AI_Agents.md",
+    "01_Strategy/STR-004_Product_Portfolio.md",
+    "01_Strategy/STR-003_OKR.md",
+    "01_Strategy/STR-002_3_Year_Roadmap.md",
+    "01_Strategy/STR-001_Roadmap.md",
+    "09_Brand/Storytelling.md",
+    "09_Brand/Launch_Checklist.md",
+    "09_Brand/Website_Structure.md",
+    "09_Brand/Photography_Guide.md",
+    "09_Brand/Visual_Language.md",
+    "08_Quality/Failure_Log.md",
+    "08_Quality/User_Testing.md",
+    "08_Quality/Stress_Test.md",
+    "08_Quality/Prototype_Test_Plan.md",
+    "08_Quality/Incoming_Inspection.md",
+    "07_Manufacturing/QC_at_Factory.md",
+    "07_Manufacturing/Supplier_Checklist.md",
+    "07_Manufacturing/Packaging_SOP.md",
+    "07_Manufacturing/Assembly_Line.md",
+    "07_Manufacturing/Production_Workflow.md",
+    "06_Materials/Surface_Finishes.md",
+    "06_Materials/Magnets_Guide.md",
+    "06_Materials/Aluminum_Comparison.md",
+    "06_Materials/Wood_Comparison.md",
+    "10_Marketing",
+    "04_CAD",
+    "11_Finance",
+    "09_Brand",
+    "08_Quality",
+    "07_Manufacturing",
+    "06_Materials",
+    "12_Patents",
+    "Templates",
+    "05_AI_Product_Lab"
+  ]
+}
