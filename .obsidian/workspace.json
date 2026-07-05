@@ -11,14 +11,13 @@
             "id": "9188ace5c5ac6c86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "05_AI_Product_Lab/Mechanical_Engineer_AI.md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "Mechanical_Engineer_AI"
+              "icon": "lucide-table",
+              "title": "Без названия"
             }
           }
         ]
@@ -188,6 +187,8 @@
   },
   "active": "9188ace5c5ac6c86",
   "lastOpenFiles": [
+    "05_AI_Product_Lab/Mechanical_Engineer_AI.md",
+    "Без названия.base",
     "05_AI_Product_Lab/Industrial_Designer_AI.md",
     "05_AI_Product_Lab/AI-001_Chief_AI.md",
     "05_AI_Product_Lab/AI_Agents.md",
@@ -213,7 +214,6 @@
     "06_Materials/Surface_Finishes.md",
     "06_Materials/Magnets_Guide.md",
     "06_Materials/Aluminum_Comparison.md",
-    "06_Materials/Wood_Comparison.md",
     "10_Marketing",
     "04_CAD",
     "11_Finance",
@@ -222,7 +222,6 @@
     "07_Manufacturing",
     "06_Materials",
     "12_Patents",
-    "Templates",
-    "05_AI_Product_Lab"
+    "Templates"
   ]
 }
